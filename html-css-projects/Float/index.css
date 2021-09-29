@@ -1,0 +1,14 @@
+body {
+  height: 100vh;
+}
+div {
+  margin: 5px;
+  width: 200px;
+  height: 200px;
+}
+.left {
+  background-color: rgb(252, 6, 2);
+}
+.right {
+  background-color: rgb(10, 252, 1);
+}

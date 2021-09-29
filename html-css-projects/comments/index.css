@@ -1,0 +1,20 @@
+body{
+  display: flex;
+  flex-direction: column;
+}
+
+/*this is the styling of heading*/
+h2{
+  font-family: Comic Sans MS;
+  border-bottom: 5px solid #458ACD;
+  align-items: center;
+  padding-bottom: 20px;
+  width: 180px;
+  display: flex;
+  align-self: center;
+}
+p{
+  font-size: 24px;
+  font-family: inherit;
+  padding: 10px;
+}

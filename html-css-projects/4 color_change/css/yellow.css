@@ -1,0 +1,18 @@
+.submit-bt{
+	border-color: #e5c41a;
+}
+
+.submit-bt{
+	background: #e5c41a;
+}
+
+.submit-bt:hover,
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open>.dropdown-toggle.btn-primary{
+	border-color: #CAAB0E;
+}
+
+
+.submit-bt:hover,
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open>.dropdown-toggle.btn-primary{
+	background: #CAAB0E;
+}

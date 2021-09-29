@@ -1,0 +1,11 @@
+img {
+  width: 700px;
+  height: 400px;
+}
+* {
+  text-align: center;
+  display: block;
+}
+h3 {
+  width: 100px;
+}

@@ -1,0 +1,10 @@
+*{
+ font-family: Consolas;
+ color: blue;
+ font-size: 25px;
+}
+table, td, tr{
+  border: 1px solid black;
+  padding: 5px;
+  border-collapse: collapse;
+}

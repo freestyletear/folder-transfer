@@ -1,0 +1,73 @@
+html {
+    background-color: rgb(20, 130, 173);
+}
+.main {
+    background-color: rgb(237, 237, 237);
+    overflow: scroll;
+    width: 68%;
+}
+#one {
+    float: left;
+    height: 200px;
+    width: 300px;
+    margin: 0 10px 0 0;
+}
+#two {
+    float: right;
+    margin: 10px 0 0 10px;
+}
+#three {
+    width: 100%;
+}
+p {
+    margin: 5px 0 10px 0;
+    font-size: 00.9em;
+    text-align: justify;
+}
+/*Provided CSS*/
+header {
+  text-align: center;
+  padding-bottom: 10px;
+}
+time {
+  border-style: dashed none dashed none;
+  display: block;
+}
+h1 {
+  font-size: 4em;
+  font-family: Georgia, sans-serif;
+  color: rgb(71, 114, 232);
+  text-shadow: 3px 1px black;
+  margin-bottom: 40px;
+}
+
+h3 {
+  margin: 0;
+  font-family: georgia, sans-serif;
+  font-size: 1.3em;
+}
+.content {
+  margin: 0 0 0 10px;
+  /*box-shadow: 0 0 20px 0px #888888;*/
+}
+#plastic-bag {
+  margin-top: 80px;
+}
+
+.first {
+  margin: 10px;
+}
+img {
+  max-height: 200px;
+}
+.column p {
+  font-family: times;
+  font-size: 0.8em;
+}
+
+a {
+  font-weight: 900;
+}
+a:hover {
+  color: red;
+}

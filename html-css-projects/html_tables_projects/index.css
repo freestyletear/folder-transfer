@@ -1,0 +1,21 @@
+*{
+ font-family: Consolas;
+ font-size: 25px;
+ font-size: xx-large;
+ text-align: center;
+}
+table, tr, th, td{
+  border: 3px solid black;
+  padding: 5px;
+  border-collapse: collapse;
+}
+table {
+    margin-left: 50%;
+    margin-left: 40%;
+}
+th {
+    color: green;
+}
+td {
+    color: maroon;
+}

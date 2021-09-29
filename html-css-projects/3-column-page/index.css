@@ -1,0 +1,89 @@
+html {
+  margin: 0;
+  padding: 0;
+  background: url("http://bit.ly/kings_college_chapel") no-repeat center fixed;
+  background-size: cover;
+}
+img {
+  height: auto;
+  width: 300px;
+  margin: 0 0 0 0;
+  box-sizing: border-box;
+  /* overflow: hidden; */
+}
+.message {
+  margin: 20px auto 0 auto;
+  font-family: cursive;
+  font-size: 1.3em;
+  text-align: center;
+}
+h1 {
+  margin: 0;
+  -webkit-margin-before: 0;
+  color: rgb(145, 2, 0);
+}
+#content-1 a:hover {
+  color: rgb(250, 255, 0);
+  font-weight: 900;
+}
+
+header {
+  box-sizing: border-box;
+  display: flex;
+  height: 200px;
+  background-color: rgb(212, 214, 216);
+  overflow: hidden;
+  /* overflow: scroll; */
+}
+p {
+  color: maroon;
+}
+body {
+  margin: 50px auto 50px auto;
+  background: rgba(255, 255, 255, 0.8);
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+main {
+  background-color: rgba(232, 235, 239, 0.3);
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+footer {
+  background-color: rgb(148, 252, 242);
+  display: flex;
+  justify-content: space-around;
+  padding: 10px;
+}
+.column {
+  padding: 20px;
+  margin: 10px 10px 10px 0;
+}
+#content-1 {
+  background-color: rgb(81, 130, 255);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 200px;
+}
+#content-2 {
+  background-color: rgb(213, 183, 255);
+  flex: 2;
+}
+#content-3 {
+  background-color: rgb(169, 241, 249);
+  flex: 1;
+  margin-right: 0;
+}
+#content-1 a:hover {
+  color: rgb(250, 255, 0);
+  font-weight: 900;
+}
+a:hover {
+  font-weight: 900;
+  font-style: italic;
+  color: rgb(255, 0, 250);
+}
